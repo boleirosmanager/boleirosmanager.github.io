@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.boleirosmanager.boleiros",
+      "sha256_cert_fingerprints":
+        ["A3:1B:7C:69:DB:86:FF:AB:7E:C4:66:58:1C:97:E8:72:2F:26:CD:5E:EC:60:9A:A7:60:50:A4:74:44:05:64:62"]
+    }
+  }
+]
